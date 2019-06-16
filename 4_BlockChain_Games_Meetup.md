@@ -3,11 +3,8 @@
 * 참고 사이트 
 
 https://settle.finance/blog/cdp-explained-makerdao/
-
  <br>
- https://www.sandbox.game/kr/
- 
- 
+ https://www.sandbox.game/kr/ 
  <br>
  https://loomx.io/ko/
 
