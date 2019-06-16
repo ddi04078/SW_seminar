@@ -7,8 +7,6 @@ https://settle.finance/blog/cdp-explained-makerdao/
  https://www.sandbox.game/kr/ 
  <br>
  https://loomx.io/ko/
-
-
  <br>
  https://brunch.co.kr/@bumgeunsong/55
 
