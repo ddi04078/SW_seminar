@@ -3,9 +3,17 @@
 * 참고 사이트 
 
 https://settle.finance/blog/cdp-explained-makerdao/
+
+ <br>
  https://www.sandbox.game/kr/
+ 
+ 
+ <br>
  https://loomx.io/ko/
-https://brunch.co.kr/@bumgeunsong/55
+
+
+ <br>
+ https://brunch.co.kr/@bumgeunsong/55
 
  <br>
  <br>
@@ -15,6 +23,8 @@ https://brunch.co.kr/@bumgeunsong/55
   내가  간  커뮤니티  행사는  스테이블  코인  중 dai에  관련해, 블록체인  게임  생태계를  발전시키는  포르젝트를  소개하고  이야기를  나누는 Meetup이었다. 네  개의  그룹  메이커다오, 엑시  인피니티, 샌드박스, 룸  네트워크에서  프로젝트  발표를  진행했다.
 
 
+ <br>
+ <br>
 # 메이커 다오 
 
 
@@ -52,6 +62,8 @@ https://brunch.co.kr/@bumgeunsong/55
 - 블록체인의 힘을 풀어 경제적인 권리를 만든다. 
 
 
+ <br>
+ <br>
 
 
 
@@ -90,6 +102,8 @@ https://brunch.co.kr/@bumgeunsong/55
 
 
 
+ <br>
+ <br>
 
 
 # 샌드박스 
@@ -105,6 +119,11 @@ https://brunch.co.kr/@bumgeunsong/55
 - 사용자 생성 컨텐츠
 - 대체 불가 토큰
 - 멀티 플레이어
+
+
+
+ <br>
+ <br>
 
 # 룸 네트워크
 
