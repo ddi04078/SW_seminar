@@ -1,5 +1,7 @@
  
-![image1](image1.jpeg)
+![image1](image1.jpng)
+![image2](image2.jpng)
+![image3](image3.jpng)
  
 
 
